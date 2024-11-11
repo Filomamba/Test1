@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <div>
-        <Navbar />
+        <Navigation />
         <Routes>
           <Route path="/" element={<Dashboard />} />
           <Route path="/menu-manager" element={<MenuManager />} />
