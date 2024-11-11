@@ -5,7 +5,7 @@ import MenuManager from './components/MenuManager';
 import Analytics from './components/Analytics';
 import Access from './components/Access';
 import Support from './components/Support';
-import Navbar from './components/Navbar';
+import Navigation from './components/Navigation';
 
 function App() {
   return (
